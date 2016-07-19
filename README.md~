@@ -5,7 +5,7 @@
 # Create a virtual environment
 virtualenv some-dir-name
 git clone https://github.com/praveen-yadav/cyanide-happiness-comics-download.git
-cd CyanideHappiness
+cd reddit
 scrapy crawl --nolog explode
 ```
 
